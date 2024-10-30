@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou Estudande De Back-End Usando A Linguagem Java<br>Estou A Procura De Estagio<br>Estou Graduduando No Curso De Sistema De Informação Na Instituição Unifacol
+Sou Estudande De Back-End Usando A Linguagem Java<br>Estou A Procura De Estagio<br>Estou estudando progamação por conta propia.
 
 
 ## 🌐 Socials:
